@@ -283,3 +283,8 @@ a:after {
 sm {
 	font-size: 12px;
 }
+
+/* CUSTOM */
+.skill-logo {
+  cursor: help;
+}
